@@ -1,0 +1,21 @@
+body {
+    max-width: 700px;
+    margin: 0 auto;
+}
+h1 {
+    color: hotpink;
+}
+
+h2 {
+    color: hotpink;
+    font-style: oblique;
+}
+p {
+    color: hotpink;
+}
+ul {
+    color: hotpink;
+}
+marquee {
+    color: hotpink;
+}
